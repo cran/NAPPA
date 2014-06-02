@@ -1,14 +1,14 @@
-cd538ac435ca474351d6a4f072309880 *DESCRIPTION
+036b2cad71164c552789754691a159ac *DESCRIPTION
 bd4b2f038ef019322ea30e459dca00e8 *NAMESPACE
 7afffbc9d5960c5462b74a4c855a12f0 *R/Calibrate.Sigmoid.Curve.R
 dca7d46f2c4e489fc6b78afc7c4988c9 *R/NAPPA.R
-47616a7831ddc30f231ca2ba21b5ff1e *build/vignette.rds
+cd03ad43dff0dbc1376251bd74175a76 *build/vignette.rds
 10d7e2cc45c85eac30f4469be9ebadac *data/NS.Dilution.RData
 2962fbf0a4299450a132ad2f28b6cd7f *data/NS.Lung.RData
 badf0447196b5a672b19aafa2e66e2d4 *data/nsolver.Dilution.RData
 33d5fd5c65be13b297be989f59c8306c *inst/doc/NAPPA.R
 cff5f7501cabb9cbe7f077334d617e8b *inst/doc/NAPPA.Snw
-4b80299ff47e6301bb0ae5da28c42b07 *inst/doc/NAPPA.pdf
+4df96927da5b1958a464e96443ea8c3e *inst/doc/NAPPA.pdf
 00d58fae73263b25a8faa9bc67800465 *man/NAPPA-package.Rd
 fbd78fafde60d9ac68dc162a836c8d58 *man/NAPPA.Rd
 e9adca52f420edbcb2adad9c8d6e24f2 *man/NS.Dilution.Rd
