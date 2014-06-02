@@ -11,14 +11,14 @@ Performs postive control, negative control and housekeeping normalisation of Nan
 \tabular{ll}{
 Package: \tab NAPPA\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-10-04\cr
+Version: \tab 2.0\cr
+Date: \tab 2014-07-15\cr
 License: \tab GPL-2\cr
 }
 
 }
 \author{
-Author: Mark Wappett
+Author: Chris Harbron, Mark Wappett
 
 Maintainer: Mark Wappett <mark.wappett@astrazeneca.com>
 }
